@@ -1,7 +1,8 @@
 *{
-    margin: 0;
-    padding: 0;
+    
     box-sizing: border-box;
+    font-family: sans-serif;
+    font-style: italic;
 
 }
 
@@ -19,13 +20,11 @@ h1{
 h2{
     background-color: blueviolet;
     color: white;
-    font-family: sans-serif;
     text-align: center;
 }
 h3{
     text-decoration: underline;
     background-color: steelblue;
     color: black;
-    font-family: sans-serif;
     text-align: end;
 }
