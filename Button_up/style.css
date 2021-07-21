@@ -1,7 +1,36 @@
-h3{
-    border: 2px dotted green;
+#searchbutton{
+    display: block;
+    border-radius: 40px;
+    border: 2px solid #76c1c2;
+    font-weight: 900;
+    height: 40px;
+    width: 100px;
+    background-color: white;
+    color: #76c1c2;
+    margin-bottom: 10px;
+
 }
 
-#picture{
-    border-radius: 50%;
+#plusbutton{
+    display: block;
+    height: 40px;
+    width: 40px;
+    margin-bottom: 10px;
+    background-color: #01d1b2;
+    color: white;
+    border-radius: 40px;
+    border: none;
+
+}
+
+#createbutton{
+    display: block;
+    margin-bottom: 10px;
+    height: 40px;
+    width: 140px;
+    background-color: #2b77e4;
+   color: #d7e6fa;
+   border: 2px solid black;
+   box-shadow: 2px 2px black;
+
 }
